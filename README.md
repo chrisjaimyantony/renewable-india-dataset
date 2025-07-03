@@ -73,3 +73,11 @@ If you're working on a project using this dataset and would like help, feel free
 ## 🚀 About
 
 Created and maintained by [Chris Jaimy Antony](https://www.linkedin.com/in/chris-jaimy-antony) with the aim of democratizing access to clean energy data and enabling better analysis for sustainability research and policy.
+
+---
+
+## ⚠️ Disclaimer
+
+This dataset is a curated collection of public data sources and contains some values predicted using XGBoost regression. GSDP values are nominal and not inflation-adjusted, so this dataset is not yet suitable for formal economic research without further processing.
+
+If you're planning to use this in an academic project, I'd appreciate a mention or GitHub citation and feel free to reach out!
